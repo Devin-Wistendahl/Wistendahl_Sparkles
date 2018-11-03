@@ -69,8 +69,10 @@ div.bs_carousel {
   position: relative;
   margin: auto;
 }
+.row {
+  margin: 15px;
+}
 
-/* Hide the images by default */
 .mySlides {
     display: none;
 }
@@ -162,11 +164,6 @@ img.portolioPicture {
 
 }
 
-img#steph{
-  width:50%;
-  float:left;
-  padding-right: 10px;
-}
 
 
 footer {
